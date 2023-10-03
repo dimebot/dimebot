@@ -1,4 +1,4 @@
-### Hi there 👋
+### <p text align="center"> Hello There </p>
 
 <!--
 **dimebot/dimebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
